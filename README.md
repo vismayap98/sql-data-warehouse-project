@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# SQL-data-warehouse-project
 This project showcases a complete data warehousing and analytics solution—from constructing the data warehouse to delivering meaningful insights. Developed as a portfolio piece, it reflects industry-standard practices in data engineering and analytics.
 
 # 📦 Building the Data Warehouse (Data Engineering)
@@ -17,7 +17,7 @@ Scope: Focus exclusively on the most recent dataset; historical tracking is out 
 
 Documentation: Deliver clear and concise documentation to assist both business users and analysts in understanding the data model.
 
-📊 BI, Analytics & Reporting (Data Analysis)
+# 📊 BI, Analytics & Reporting (Data Analysis)
 Objective:
 Use SQL to develop in-depth analytics that uncover trends and patterns in:
 
