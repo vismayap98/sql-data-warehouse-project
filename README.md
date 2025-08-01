@@ -1,7 +1,7 @@
 # sql-data-warehouse-project
 This project showcases a complete data warehousing and analytics solution—from constructing the data warehouse to delivering meaningful insights. Developed as a portfolio piece, it reflects industry-standard practices in data engineering and analytics.
 
-📦 Building the Data Warehouse (Data Engineering)
+# 📦 Building the Data Warehouse (Data Engineering)
 Objective:
 Create a modern data warehouse using SQL Server to centralize sales data, supporting analytical reporting and data-driven decision-making.
 
