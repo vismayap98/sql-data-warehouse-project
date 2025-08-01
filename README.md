@@ -1,7 +1,9 @@
 # SQL-data-warehouse-project
 This project showcases a complete data warehousing and analytics solution—from constructing the data warehouse to delivering meaningful insights. Developed as a portfolio piece, it reflects industry-standard practices in data engineering and analytics.
 
-# 📦 Building the Data Warehouse (Data Engineering)
+# Project Requirement
+##📦 Building the Data Warehouse (Data Engineering)
+
 Objective:
 Create a modern data warehouse using SQL Server to centralize sales data, supporting analytical reporting and data-driven decision-making.
 
@@ -17,7 +19,7 @@ Scope: Focus exclusively on the most recent dataset; historical tracking is out 
 
 Documentation: Deliver clear and concise documentation to assist both business users and analysts in understanding the data model.
 
-# 📊 BI, Analytics & Reporting (Data Analysis)
+## 📊 BI, Analytics & Reporting (Data Analysis)
 Objective:
 Use SQL to develop in-depth analytics that uncover trends and patterns in:
 
@@ -28,3 +30,12 @@ Product Performance
 Sales Trends
 
 These insights equip stakeholders with critical business intelligence, enabling more strategic and informed decision-making.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+##👋 About Me
+I’m a data enthusiast who loves building end-to-end data solutions and learning new tools along the way. Always curious, always exploring — let’s connect and grow together! 🚀
+
+
