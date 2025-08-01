@@ -2,7 +2,7 @@
 This project showcases a complete data warehousing and analytics solution—from constructing the data warehouse to delivering meaningful insights. Developed as a portfolio piece, it reflects industry-standard practices in data engineering and analytics.
 
 # Project Requirement
-##📦 Building the Data Warehouse (Data Engineering)
+## 📦 Building the Data Warehouse (Data Engineering)
 
 Objective:
 Create a modern data warehouse using SQL Server to centralize sales data, supporting analytical reporting and data-driven decision-making.
@@ -35,7 +35,7 @@ These insights equip stakeholders with critical business intelligence, enabling 
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-##👋 About Me
+## 👋 About Me
 I’m a data enthusiast who loves building end-to-end data solutions and learning new tools along the way. Always curious, always exploring — let’s connect and grow together! 🚀
 
 
