@@ -1,7 +1,6 @@
 <!-- ============================================================================ -->
 ## ⚙️ ETL: Load Silver Layer (Bronze → Silver)
 <!-- ============================================================================ -->
-
 ### 📌 Script Purpose
 This stored procedure executes the **ETL (Extract, Transform, Load)** pipeline to populate tables in the `silver` schema from the `bronze` schema.
 
