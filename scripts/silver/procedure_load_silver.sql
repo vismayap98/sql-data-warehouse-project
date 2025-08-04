@@ -1,24 +1,26 @@
 <!-- ============================================================================ -->
 ## ⚙️ ETL: Load Silver Layer (Bronze → Silver)
 <!-- ============================================================================ -->
-### 📌 Script Purpose
-This stored procedure executes the **ETL (Extract, Transform, Load)** pipeline to populate tables in the `silver` schema from the `bronze` schema.
 
-**Key Actions:**
-- 🗑 **Truncates** all Silver layer tables.
-- 🔄 **Inserts cleaned and transformed** data from Bronze into Silver tables.
+### 📌 Script Purpose
+This stored procedure executes the **ETL (Extract, Transform, Load)** pipeline to populate cleaned and standardized data into the `silver` schema from the raw `bronze` layer.
+
+### 🔧 Key Actions
+- 🗑 **Truncates** each target table in the `silver` schema
+- 🧼 **Cleans** and **transforms** incoming raw data
+- 🔄 **Loads** standardized records for analysis-ready use
 
 ---
 
 ### 📋 Parameters
-- None.  
-  This procedure does not take any input parameters or return any values.
+- **None** — This procedure accepts no input and returns no output.
 
 ---
 
 ### ✅ Usage Example
 ```sql
 EXEC silver.load_silver;
+
 
 
 CREATE OR ALTER PROCEDURE silver.load_silver AS
